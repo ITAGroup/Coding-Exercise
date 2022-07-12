@@ -1,0 +1,6 @@
+.vs/
+DateTesting/bin/
+DateTesting/obj/
+DateUnitTests/bin/
+DateUnitTests/obj/
+*.bak
