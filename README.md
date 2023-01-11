@@ -5,7 +5,7 @@
     
     We have a client who has a concept of fiscal months. We
     need you to write a method that accepts a Date and will
-    return the fiscal month in the format 'January, 2022'.
+    return the fiscal month in the String format 'January, 2022'.
     
     The client has told us that their fiscal month is
     defined as follows:
